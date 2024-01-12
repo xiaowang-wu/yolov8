@@ -1,0 +1,14 @@
+python 3.11
+ideal C:\Users\54086\.m2\settings.xml
+C:\Users\54086\.m2\repositoryz
+
+tensorflow 2.12.1
+cuda 11.6
+
+
+cuda11.x对应cudnn8.6.0。
+
+
+yolo predict model=yolov8n.pt source='ultralytics/assets/bus.jpg'
+
+权重文件：https://github.com/ultralytics/assets/releases
